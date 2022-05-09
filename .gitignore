@@ -1,0 +1,6 @@
+/node_modules/
+/errorShots/
+/.idea/
+environment.json
+/allure-results/
+/allure-report/
